@@ -1,0 +1,21 @@
+[
+  {
+    "dish": "Veg Wrap",
+    "date": "2025-05-20",
+    "time": "12:30",
+    "quantity": 2
+  },
+  {
+    "dish": "Chinese Noodles",
+    "date": "2025-05-20",
+    "time": "13:10",
+    "quantity": 1
+  },
+  {
+    "dish": "Americano",
+    "date": "2025-05-20",
+    "time": "08:45",
+    "quantity": 1
+  }
+]
+
